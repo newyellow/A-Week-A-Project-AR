@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 1a7860a777f3c4bf9898ef0b6a91dd85
+timeCreated: 1506953371
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BodyMesh
+    100002: FaceMesh
+    100004: HairGroup
+    100006: HairMesh
+    100008: Head
+    100010: Head_End
+    100012: HeadGroup
+    100014: HeadPart
+    100016: Hips
+    100018: LeftArm
+    100020: LeftFinger_End
+    100022: LeftFingers
+    100024: LeftFoot
+    100026: LeftFoot_End
+    100028: LeftForeArm
+    100030: LeftHand
+    100032: LeftHip
+    100034: LeftLeg
+    100036: LeftThumb
+    100038: LeftTorso
+    100040: LeftUpLeg
+    100042: Neck
+    100044: //RootNode
+    100046: Reference
+    100048: RightArm
+    100050: RightFinger_End
+    100052: RightFingers
+    100054: RightFoot
+    100056: RightFoot_End
+    100058: RightForeArm
+    100060: RightHand
+    100062: RightHip
+    100064: RightLeg
+    100066: RightThumb
+    100068: RightTorso
+    100070: RightUpLeg
+    100072: Spine
+    100074: Spine1
+    100076: Spine2
+    400000: BodyMesh
+    400002: FaceMesh
+    400004: HairGroup
+    400006: HairMesh
+    400008: Head
+    400010: Head_End
+    400012: HeadGroup
+    400014: HeadPart
+    400016: Hips
+    400018: LeftArm
+    400020: LeftFinger_End
+    400022: LeftFingers
+    400024: LeftFoot
+    400026: LeftFoot_End
+    400028: LeftForeArm
+    400030: LeftHand
+    400032: LeftHip
+    400034: LeftLeg
+    400036: LeftThumb
+    400038: LeftTorso
+    400040: LeftUpLeg
+    400042: Neck
+    400044: //RootNode
+    400046: Reference
+    400048: RightArm
+    400050: RightFinger_End
+    400052: RightFingers
+    400054: RightFoot
+    400056: RightFoot_End
+    400058: RightForeArm
+    400060: RightHand
+    400062: RightHip
+    400064: RightLeg
+    400066: RightThumb
+    400068: RightTorso
+    400070: RightUpLeg
+    400072: Spine
+    400074: Spine1
+    400076: Spine2
+    4300000: BodyMesh
+    4300002: HairMesh
+    4300004: FaceMesh
+    9500000: //RootNode
+    13700000: BodyMesh
+    13700002: FaceMesh
+    13700004: HairMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
